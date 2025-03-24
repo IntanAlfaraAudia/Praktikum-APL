@@ -38,7 +38,7 @@ cout << "==========================================" << endl << endl;
             cout << "Gagal login. Nama atau NIM salah. Percobaan ke-" << percobaan << " dari 3." << endl;
         }
     
-        if (percobaan == 3) {
+         (percobaan == 3) {
             cout << "Anda telah login 3 kali. Program berhenti." << endl;
             return 0;
         }
